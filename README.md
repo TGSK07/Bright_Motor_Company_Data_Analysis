@@ -12,23 +12,17 @@ This project explores and analyzes a dataset from Bright Motor Company to extrac
 
 - Among all individuals, the count of male individuals taking personal loans are **3.34 times** the female individuals.
 
-- Married individuals have more number of dependent person than Single individuals, which make sense, since, married individuals also, have to take care of their childern, parents, etc. while single individuals doesn't have any children to be take care. Therefore, Married individuals have more average number of Depenedent than Single individuals. 
-
-- Individual have working partner then their total salary naturally more than individuals with not working partner,
-
 - There is **negligible amount** of difference between average salary of individuals with or without working partner.
 
 - Business Individuals taken slightly less house loan than Salaried Individuals.
 
--  Individuals **without personal loans** have a **median salary of around ₹60,000**, while those **with personal loans** have a slightly lower **median salary of around ₹58,000**. The **salary range** for both groups spans from approximately **₹30,000 to ₹90,000**, indicating similar overall distribution. This suggests that **personal loan status has minimal impact on salary levels**, with only a slight difference in median values.
+- Individuals **without personal loans** have a **median salary of around ₹60,000**, while those **with personal loans** have a slightly lower **median salary of around ₹58,000**. The **salary range** for both groups spans from approximately **₹30,000 to ₹90,000**, indicating similar overall distribution. This suggests that **personal loan status has minimal impact on salary levels**, with only a slight difference in median values.
 
-- There is linearity relationship between Service Price and Total Salary. **It show, that as the individuals total salary increases individuals goes toward luxuriers automobile which make the Service Price to be increased**. 
+- There is linearity relationship between Service Price and Total Salary. **It show, that as the individuals total salary increases, they goes toward luxuriers automobile which make the Service Price to be increased**. 
 
 - Married individuals takes 8.9 times Personal Loans then Single individuals.
 
-- PG individuals take more house loans than UG individuals because they generally have **higher salaries**, **better credit scores**, **more job stability**, and are at a **life stage** where homeownership becomes a priority.
-
-- **Females generally have a higher median salary** than , indicating a possible gender pay gap. There is also **greater salary variability among females**, with wider interquartile ranges. This suggests that female salaries are more dispersed, while male salaries are relatively clustered in a narrower range.
+- **Females generally have a higher median salary** than male , indicating a possible gender pay gap. There is also **greater salary variability among females**, with wider interquartile ranges. This suggests that female salaries are more dispersed, while male salaries are relatively clustered in a narrower range.
 
 - Individuals with a working partner generally have higher total salaries, regardless of their personal loan status. **Personal loan status shows minimal impact on total salary**.
 
